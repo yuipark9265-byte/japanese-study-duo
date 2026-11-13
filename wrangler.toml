@@ -10,4 +10,4 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "japanese-study-duo"
-database_id = "PASTE_D1_DATABASE_ID_HERE"
+database_id = "b04a4b35-d488-437c-9db7-bcb88ddfdfa6"
