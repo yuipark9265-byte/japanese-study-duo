@@ -1,0 +1,8 @@
+{
+  "name": "우리의 일본어 성장 대결!",
+  "short_name": "일본어 듀오",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}

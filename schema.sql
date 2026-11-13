@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS scores (room TEXT NOT NULL, player TEXT NOT NULL CHECK(player IN ('kageyama','tsukishima')), xp INTEGER NOT NULL DEFAULT 0, PRIMARY KEY(room,player));
